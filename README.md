@@ -1,4 +1,4 @@
-## Hi there 👋
+oie gente, bem vindos
 
 <!--
 **Mariana1216/Mariana1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
